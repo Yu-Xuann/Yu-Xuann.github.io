@@ -1,9 +1,10 @@
-
+---
 permalink: /
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+---
 
 Hi, I am **Yuxuan Jiang (蒋宇轩)** 
 
@@ -15,6 +16,7 @@ During my undergraduate studies, I have worked on:
 
 I am now applying to pursue graduate studies, with a research focus on **integrated circuits (IC design)**.  
 
+---
 
 ## Research Interests
 - Electromagnetic metamaterials & metasurfaces  
@@ -22,6 +24,7 @@ I am now applying to pursue graduate studies, with a research focus on **integra
 - Computer vision & AI for image processing  
 - Integrated circuit design  
 
+---
 
 ## Contact
 -  Email: *yxjiang04@163.com*  
