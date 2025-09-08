@@ -1,4 +1,5 @@
 ---
+
 permalink: /
 author_profile: true
 redirect_from: 
@@ -6,7 +7,6 @@ redirect_from:
   - /about.html
 
 ---
-# Welcome！
 
 Hi, I am **Yuxuan Jiang (蒋宇轩)** 
 
