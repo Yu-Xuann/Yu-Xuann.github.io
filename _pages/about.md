@@ -1,29 +1,31 @@
 ---
+
 permalink: /
-title: "Yu Xuann | Personal Website"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+
 ---
 
 # Welcome!
 
-Hi, I am **Yuxuan Jiang(蒋宇轩)**.  
-I obtained my B.Sc. in **Electronic Science and Technology** from the **Chien-Shiung Wu College, Southeast University**.  
+Hi, I am **Yuxuan Jiang (蒋宇轩)** 
 
-During my undergraduate studies, I worked on:
+I am currently a senior undergraduate student at the **Chien-Shiung Wu College, Southeast University**, majoring in **Electronic Science and Technology**.  
+
+During my undergraduate studies, I have worked on:  
 - **Electromagnetic metamaterials**, including metasurfaces for dynamic beamforming.  
 - **Artificial intelligence for image processing**, focusing on computer vision techniques.  
 
-I am now applying to pursue graduate studies, with a focus on **integrated circuits (IC design)**.
+I am now applying to pursue graduate studies, with a research focus on **integrated circuits (IC design)**.  
 
 ---
 
 ## Research Interests
-- Metamaterials and metasurfaces  
-- Beamforming and electromagnetic wave manipulation  
-- AI for image processing  
+- Electromagnetic metamaterials & metasurfaces  
+- Beamforming and wave manipulation  
+- Computer vision & AI for image processing  
 - Integrated circuit design  
 
 ---
